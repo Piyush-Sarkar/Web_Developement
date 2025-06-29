@@ -1,9 +1,9 @@
-# JAVA-PROGRAM-HUB
+# Simple Calculator 
 
-This is a public repository for numerous programs in Java language.
-This is the repository for numerous programs in Java language.
-<br>
-This repository contains various concepts of Object-Oriented Programing implemented using Java language.
-There are various DSA and DAA problem solutions present in this repository.
-<br>
+This is a basic calculator project made using HTML, CSS, and JavaScript.  
+It can perform simple operations like addition, subtraction, multiplication, and division and a few more.  
+This is my first web development project.  
+I built it to practice and learn the basics of front-end development.  
+Feel free to try it out or improve it!
+
 Author - Piyush Sarkar
